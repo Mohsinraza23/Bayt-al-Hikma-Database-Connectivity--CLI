@@ -211,7 +211,7 @@ if __name__ == "__main__":
 ---
 
 ## 🏆 Author
-[Your Name](https://github.com/Mohsinraza23)
+[Mohsin Raza](https://github.com/Mohsinraza23)
 
 📧 Contact: 03452615590
 
