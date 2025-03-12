@@ -211,7 +211,7 @@ if __name__ == "__main__":
 ---
 
 ## 🏆 Author
-[Your Name](https://github.com/yourusername)
+[Your Name](https://github.com/Mohsinraza23)
 
-📧 Contact: your.email@example.com
+📧 Contact: 03452615590
 
